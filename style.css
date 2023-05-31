@@ -54,16 +54,10 @@ body {
     background-color: #fff;
     color: black;
   }
-  #navbar2 a.active {
-    background-color: #000000;
-    color: #fff;
-   }
    .sticky {
     position: fixed;
     top: 0;
     width: 100%;
   }
-  .sticky + .content {
-    padding-top: 80px;
-  } 
+
   
